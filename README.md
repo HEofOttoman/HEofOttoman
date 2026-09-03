@@ -1,4 +1,4 @@
-# Hola 
+# Hola!
 I have no clue what I'm doing
 
-go look at [my website](https://heofottoman.github.io/Henry-Wauzivuff-Personal-Website/) it's better than this
+go look at [my website](https://henrywauzivuff.xyz) it's better than this
